@@ -9,7 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{57CA2A0F-45D4-427F-9D65-74B2769481D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{936D0E01-A354-4574-B978-4FE397DFA0C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{936D0E01-A354-4574-B978-4FE397DFA0C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{FAC01EDF-DFB4-4F33-A1B8-6FC91984F8D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{0AE2ABEE-E04B-4DC1-B5FF-BCA2F80AD8ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{765F0927-AC86-4329-B175-51A3F44776DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{936D0E01-A354-4574-B978-4FE397DFA0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{936D0E01-A354-4574-B978-4FE397DFA0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{936D0E01-A354-4574-B978-4FE397DFA0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC01EDF-DFB4-4F33-A1B8-6FC91984F8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC01EDF-DFB4-4F33-A1B8-6FC91984F8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC01EDF-DFB4-4F33-A1B8-6FC91984F8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC01EDF-DFB4-4F33-A1B8-6FC91984F8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE2ABEE-E04B-4DC1-B5FF-BCA2F80AD8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE2ABEE-E04B-4DC1-B5FF-BCA2F80AD8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE2ABEE-E04B-4DC1-B5FF-BCA2F80AD8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE2ABEE-E04B-4DC1-B5FF-BCA2F80AD8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765F0927-AC86-4329-B175-51A3F44776DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765F0927-AC86-4329-B175-51A3F44776DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765F0927-AC86-4329-B175-51A3F44776DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765F0927-AC86-4329-B175-51A3F44776DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
