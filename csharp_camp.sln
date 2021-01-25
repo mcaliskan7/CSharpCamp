@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkerboard", "Checkerboard\Checkerboard.csproj", "{F39BE288-8666-4489-BF72-7DC765D3A9B5}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleGameSales", "SimpleGameSales\SimpleGameSales.csproj", "{91A46E68-6379-4812-8D01-04E8951D6205}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{F39BE288-8666-4489-BF72-7DC765D3A9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F39BE288-8666-4489-BF72-7DC765D3A9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F39BE288-8666-4489-BF72-7DC765D3A9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A46E68-6379-4812-8D01-04E8951D6205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A46E68-6379-4812-8D01-04E8951D6205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A46E68-6379-4812-8D01-04E8951D6205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A46E68-6379-4812-8D01-04E8951D6205}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
